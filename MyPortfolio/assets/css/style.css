@@ -33,6 +33,13 @@ h6,
   font-family: "Raleway", sans-serif;
 }
 
+.center_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .section {
   padding: 7rem 0;
 }
@@ -44,6 +51,7 @@ h6,
   padding-left: 10px;
   padding-right: 10px;
   position: relative;
+  font-size: 28px;
 }
 
 .filters a:hover,
@@ -180,7 +188,7 @@ h6,
 }
 
 .heading {
-  font-size: 28px;
+  font-size: 30px;
 }
 
 .readmore {
@@ -270,7 +278,7 @@ h6,
   background: #000;
 }
 
-/* Services */
+/* Service Descriptions at bottom of main page */
 .services i {
   font-size: 40px;
 }
